@@ -1,6 +1,6 @@
 Professional Portfolio
 
-This is a profesional website for highligting the skills, experience and knowledge I have aquired thus far.
+This is a profesional website for highligting the skills, experience and knowledge I have acquired thus far.
 
 Favour Olotu
 
