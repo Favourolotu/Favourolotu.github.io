@@ -1,0 +1,48 @@
+<article>
+											<a href="https://www.coursera.org/account/accomplishments/records/K8EGLMG46YDT" class="image"><img src="images/gc.png" alt="" /></a>
+											<h3 class="major">Automate Cybersecurity Tasks with Python</h3>
+											<p>Content: Python Programming	- PEP 8 style guide</p>
+											<a href="https://www.coursera.org/account/accomplishments/records/K8EGLMG46YDT" class="special">Learn more</a>
+										</article>
+
+										<article>
+											<a href="https://www.coursera.org/account/accomplishments/records/WGKDE8HB3CPU" class="image"><img src="images/gc.png" alt="" /></a>
+											<h3 class="major">Detection and Response</h3>
+											<p>Content: Security Information and Event Management (SIEM) tools - Packet Analyzer -  Intrusion Detection Systems (IDS)</p>
+											<a href="https://www.coursera.org/account/accomplishments/records/WGKDE8HB3CPU" class="special">Learn more</a>
+										</article>
+
+										<article>
+											<a href="https://www.coursera.org/account/accomplishments/certificate/RWQ4VYCD4PAS" class="image"><img src="images/gc.png" alt="" /></a>
+											<h3 class="major">Assets, Threats and  Vulnerabilities</h3>
+											<p>Content: Threat Analysis - Asset Classification -  Cryptography - Vulnerability Assessment - Authentication</p>
+											<a href="https://www.coursera.org/account/accomplishments/certificate/RWQ4VYCD4PAS" class="special">Learn more</a>
+										</article>
+										
+										<article>
+											<a href="https://www.coursera.org/account/accomplishments/records/4JUHW88WPWSU" class="image"><img src="images/gc.png" alt="" /></a>
+											<h3 class="major">Tools of the Trade: Linux and SQL</h3>
+											<p>Content: Linux - SQL</p>
+											<a href="https://www.coursera.org/account/accomplishments/records/4JUHW88WPWSU" class="special">Learn more</a>
+										</article>
+
+										<article>
+											<a href="https://www.coursera.org/account/accomplishments/records/KBFCTU2U64DL" class="image"><img src="images/gc.png" alt="" /></a>
+											<h3 class="major">Networks and Network Security</h3>
+											<p>Content: Structure of a Network - Network Operations - Network Attacks - Security Hardening</p>
+											<a href="https://www.coursera.org/account/accomplishments/records/KBFCTU2U64DL" class="special">Learn more</a>
+										</article>
+										
+										<article>
+											<a href="https://www.coursera.org/account/accomplishments/certificate/6HJL7JNF4TMB" class="image"><img src="images/gc.png" alt="" /></a>
+											<h3 class="major">Manage Security Risks</h3>
+											<p>Content: Cybersecurity - Security Playbooks - Security Frameworks - SIEM Tools</p>
+											<a href="https://www.coursera.org/account/accomplishments/certificate/6HJL7JNF4TMB" class="special">Learn more</a>
+										</article>
+										
+										<article>
+											<a href="https://www.coursera.org/account/accomplishments/certificate/UVLEBEVK4U8Q" class="image"><img src="images/gc.png" alt="" /></a>
+											<h3 class="major">Foundations of Cybersecurity</h3>
+											<p>Content: Cybersecurity - Information Security - Ethics in Cybersecurity - NIST CSF</p>
+											<a href="https://www.coursera.org/account/accomplishments/certificate/UVLEBEVK4U8Q" class="special">Learn more</a>
+										</article>
